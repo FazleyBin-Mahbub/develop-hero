@@ -1,11 +1,9 @@
-.teamViewerArea{
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    border-bottom: 1px solid rgba(128, 128, 128, 0.603);
-    margin: 0 10px;
-
+.teamViewerArea {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.603);
 }
-.cart{
-padding :0 15px;
+.cart {
+  padding-left: 35px;
 }
