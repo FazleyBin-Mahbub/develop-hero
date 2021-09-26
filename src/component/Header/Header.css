@@ -1,10 +1,7 @@
-
-.header-main{
-   
-    margin: auto;
-    /* background: lightgray; */
-    padding: 20px 50px;
-    text-align: center;
-    margin-bottom: 50px;
-
+.header-main {
+  margin: auto;
+  background-color: #747d8c;
+  padding: 20px 50px;
+  text-align: center;
+  margin-bottom: 50px;
 }
